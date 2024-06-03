@@ -1,0 +1,4 @@
+Rid; 4160
+Oyvel; 2730
+Marcher; 3770
+Average stash: 9.33333
